@@ -7,3 +7,5 @@ Changes commit hashes (history rewrite)
 Requires  git filter-repo
 All collaborators must re-sync (re-clone or reset)
 Higher risk in shared environments
+
+
